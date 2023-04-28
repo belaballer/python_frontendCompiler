@@ -1,2 +1,6 @@
+
+# Ignore parser.out file
 parser.out
-__pycache__
+
+# Ignore Python cache directory
+__pycache__/
